@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagiApp</string>
+
+    <string name="hello_blank_fragment">Profile</string>
+    <string name="tabs_1">Form</string>
+    <string name="tabs_2">Tampil</string>
+</resources>
